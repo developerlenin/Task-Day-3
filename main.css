@@ -1,0 +1,120 @@
+.container{
+	    margin: 42px 100px;
+}
+.contact h1{
+	text-align: center;
+}
+.contact p{
+	font-size:17px;
+	text-align:center;
+}
+.contact hr{
+	width:100px;
+}
+.address{
+	width:100%;
+}
+.address-box{
+	display:flex;
+	width:100%;
+}
+.contact-box{
+	width: 48%;
+    margin: auto;
+}
+
+.our-address1{
+	display:flex;
+	width:100%;
+}
+.our-address{
+	width:100%;
+    margin-right: 45px;
+	box-shadow: 0 0 10px rgb(102 89 80);
+}
+.box1{
+	width:50%;
+	box-shadow: 0 0 10px rgb(102 89 80);
+	margin: 10px 10px 0px 0px;
+}
+
+.box2{
+	width:50%;
+	box-shadow: 0 0 10px rgb(102 89 80);
+	margin: 10px 0px 0px 10px;
+}
+.box{
+	width:50%;
+}
+.icon {
+    text-align: center;
+    margin: 0px !important;
+    padding-top: 14px!important;
+color: rgb(255 215 0);	
+}
+
+.heading{
+	text-align:center;
+	color:gray;
+	padding: 0px !important;
+    margin: 0px !important;
+	padding-top: 14px!important;
+	font-size:15px;
+}
+.paragraph{
+	text-align:center;
+	padding: 0px !important;
+    margin: 0px !important;
+    font-size:13px;
+	padding-top: 14px!important;
+	
+}
+.withoutmargin{
+		padding-top: 0px!important;
+}
+.withpaddingbottom{
+	padding-bottom: 14px!important;
+}
+.from-box{
+	width:48%;
+	margin:auto;
+	box-shadow: 0 0 10px rgb(102 89 80);
+	height:250px;
+}
+.text1{
+	width:44%;
+margin: 10px 5px;
+    border: 1px solid rgb(128 128 128);
+    font-size: 13px;
+    padding: 9px 3px
+}
+.text2{
+	width:48%;
+	margin: 10px 5px;
+    border: 1px solid rgb(128 128 128);
+    font-size: 13px;
+    padding: 9px 3px
+}
+.text3{
+	width:98%;
+	margin: 10px 5px;
+    border: 1px solid rgb(128 128 128);
+    font-size: 13px;
+    padding: 9px 3px
+}
+.text4{
+	width:98%;
+	margin: 10px 5px;
+    border: 1px solid rgb(128 128 128);
+    font-size: 13px;
+    padding: 9px 3px;
+	height:60px;
+}
+.button{
+	background: rgb(255 215 0);
+    color: rgb(245 245 220);
+    border: none;
+    font-size: 14px;
+    padding: 4px 5px;
+	margin: 0px 180px;
+}
